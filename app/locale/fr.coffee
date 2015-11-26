@@ -12,14 +12,14 @@ module.exports = nativeDescription: "français", englishDescription: "French", t
     multiplayer: "Multijoueurs" # Not currently shown on home page
     for_developers: "Pour développeurs" # Not currently shown on home page.
     or_ipad: "Ou télécharger pour iPad"
-#    hoc_class_code: "I Have a Class Code"
-#    hoc_enter: "Enter"
-#    hoc_title: "Hour of Code?"
+    hoc_class_code: "J'ai un Code de Classe"
+    hoc_enter: "Entrer"
+    hoc_title: "Heure de Code?"
 
   nav:
     play: "Jouer" # The top nav bar entry where players choose which levels to play
     community: "Communauté"
-#    courses: "Courses"
+    courses: "Courses"
     editor: "Éditeur"
     blog: "Blog"
     forum: "Forum"
